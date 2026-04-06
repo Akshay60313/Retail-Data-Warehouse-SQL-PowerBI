@@ -1,5 +1,6 @@
-📦 Retail Sales Data Warehouse & Diagnostics Pipeline (51k+ Records)
+# 📦 Retail Sales Data Warehouse & Diagnostics Pipeline (51k+ Records)
 
+![Power BI](https://img.shields.io/badge/Data_Viz-Power_BI-yellow) ![SQL](https://img.shields.io/badge/Database-MySQL-blue) ![Excel](https://img.shields.io/badge/Modeling-Excel_ETL-green) ![Status](https://img.shields.io/badge/Status-Project_Complete-success)
 
 🎯 Project Overview
 This project showcases an institutional-grade, full-stack data engineering and analytics pipeline. I transformed 51,000+ raw transactional records from Excel into a high-performance MySQL Star Schema Data Warehouse. The project concludes with a multi-page Power BI suite that identifies systemic profit leakages and supply chain bottlenecks through diagnostic modeling.
